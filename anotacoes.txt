@@ -1,0 +1,23 @@
+copiar sempre o settings.json para outros modelos e configurar para CASO O SISTEMA não aceite.
+
+docstring:
+"""
+aqui posso explicar códigos
+"""
+
+tipo de tipagem = dinâmica / forte
+
+
+string = textos dentro de aspas
+
+
+aula 23: Coversâo de Tipos
+
+aula 24: nome de variável
+
+varáveis tem que ter nomes bem descritivos, deixar tudo bem detalhado
+
+tudo em python sâo objetos
+objetos geralmente podem executatar ações
+essas ações são chamadas de métodos
+esses métodos são geralmente algumas funções
