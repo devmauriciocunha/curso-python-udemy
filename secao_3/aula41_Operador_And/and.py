@@ -26,5 +26,3 @@ ambas as condições são verdadeiras (x é maior que 0 e y é maior que 0).
 
 """
 
-if 1 and 1:
-    print(True and 1 and False)
